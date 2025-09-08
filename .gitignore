@@ -2,6 +2,8 @@ pkg/*
 rdoc/*
 *.gem
 .bundle
+# exclude RubyMine IDE files
+.idea
 .ruby-version
 Gemfile.lock
 api_keys.yml
