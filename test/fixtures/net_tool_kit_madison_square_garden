@@ -1,0 +1,1 @@
+{"code":1000,"message":"success","results":[{"address":"4 Penn Plz, New York, NY 10001, USA","latitude":40.750354,"longitude":-73.993371,"house_number":"4","street":"Penn Plz","street_name":"Penn","street_type":"Plz","city":"New York","county":"New York County","state":"New York","state_code":"NY","postcode":"10001","precision":"exact","provider":"ntk","ntk_geocode_time":0.1}]}
